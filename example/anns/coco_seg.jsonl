@@ -1,0 +1,1 @@
+{"image": "example/images/2_coco_seg.jpg", "mask": "example/masks/2_coco_seg.png", "conversations": [{"from": "human", "value": "<image>\n Please segment {} in this image."}, {"from": "gpt", "value": "Sure, the segmentation result: <mask>."}], "dataset": "coco_seg", "seg_info": [{"id": 1, "category_id": 45}, {"id": 2, "category_id": 45}, {"id": 3, "category_id": 45}], "id": 0}

@@ -1,0 +1,1 @@
+{"id": 0, "image": "example/images/1_ade.jpg", "mask": "example/masks/1_ade.jpg", "conversations": [{"from": "human", "value": "<image>\n Please segment wall in this image."}, {"from": "gpt", "value": "Sure, the segmentation results: <mask>."}], "dataset": "refcoco_ade20k"}

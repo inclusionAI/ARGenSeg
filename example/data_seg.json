@@ -1,0 +1,37 @@
+{
+  "lisa_inst": {
+    "root": "",
+    "annotation": "example/anns/lisa_inst.jsonl",
+    "data_augment": false,
+    "repeat_time": 100,
+    "length": 1
+  },
+  "ade": {
+    "root": "",
+    "annotation": "example/anns/ade.jsonl",
+    "data_augment": false,
+    "repeat_time": 100,
+    "length": 1
+  },
+  "coco_seg": {
+    "root": "",
+    "annotation": "example/anns/coco_seg.jsonl",
+    "data_augment": false,
+    "repeat_time": 100,
+    "length": 1
+  },
+  "gref": {
+    "root": "",
+    "annotation": "example/anns/gref.jsonl",
+    "data_augment": false,
+    "repeat_time": 100,
+    "length": 1
+  },
+  "refcoco": {
+    "root": "",
+    "annotation": "example/anns/refcoco.jsonl",
+    "data_augment": false,
+    "repeat_time": 100,
+    "length": 1
+  }
+}
