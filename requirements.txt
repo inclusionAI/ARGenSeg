@@ -9,7 +9,7 @@ tensorboard
 # Transformers and tokenizers
 transformers==4.44.0
 tokenizers==0.19.1
-sentencepiece==0.1.99
+sentencepiece==0.2.1
 shortuuid
 huggingface-hub
 
