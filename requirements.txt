@@ -2,7 +2,7 @@
 # Install with: conda create -n argenseg python=3.10 && pip install -r requirements.txt
 
 # Core ML frameworks
-torch==2.2.1
+torch==2.13.0
 torchvision==0.17.1
 tensorboard
 
